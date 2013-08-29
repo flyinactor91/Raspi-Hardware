@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Michael duPont (flyinactor91.com)
+##--Display increasing values on the seven-segment display
+
 from Adafruit_7Segment import SevenSegment
 import time
 

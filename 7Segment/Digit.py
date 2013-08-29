@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Michael duPont (flyinactor91.com)
+##--Test digits on single-digit seven-segment display
+
 from sevensegment import *
 import time
 s=sevensegment.SevenSegmentDisplay()

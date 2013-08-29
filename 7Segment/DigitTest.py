@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
-#sevensegment gpio test
+##--Michael duPont (flyinactor91.com)
+##--Seven-segment gpio test without using 7Segment library
 
 import RPi.GPIO as GPIO
 import time

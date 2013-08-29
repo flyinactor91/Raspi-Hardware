@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Michael duPont (flyinactor91.com)
+##--Display random digit to single-digit seven-segment display
+
 from sevensegment import *
 import random , time , sys
 
@@ -20,10 +23,4 @@ try:
 except KeyboardInterrupt:
 	1
 
-#s.off()
-try:
-	while True:
-		1
-except KeyboardInterrupt:
-	1
 s.off()

@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Adafruit tutorials -- http://learn.adafruit.com/playing-sounds-and-using-buttons-with-raspberry-pi
+##--Plays selected music file when corresponding button is pressed
+
 from time import sleep
 import os
 import RPi.GPIO as GPIO

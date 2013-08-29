@@ -1,3 +1,7 @@
+#!/usr/bin/python
+
+##--Test button input state
+
 import RPi.GPIO as io
 import time
 

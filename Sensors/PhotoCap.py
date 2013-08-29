@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+##--Adafruit tutorials -- http://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi
+##--Gives measurable (analog) light readings using a photoresistor and a capacitor
+
 # Example for RC timing reading for Raspberry Pi
 # Must be used with GPIO 0.3.1a or later - earlier verions
 # are not fast enough!

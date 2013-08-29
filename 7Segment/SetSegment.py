@@ -1,9 +1,11 @@
 #!/usr/bin/python
 
+##--Michael duPont (flyinactor91.com)
+##--Test program to put numbers and letters onto a seven-segment display
+
 from Adafruit_7Segment import SevenSegment
 import RPi.GPIO as io
 
-#io.setmode(io.BCM)
 segment = SevenSegment(address=0x70)
 
 while True:

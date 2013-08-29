@@ -1,3 +1,8 @@
+#!/usr/bin/python
+
+##--Adafruit tutorials -- http://learn.adafruit.com/large-pi-based-thermometer-and-clock
+##--Display current time or temperature depending on switch position
+
 import os
 import glob
 import time

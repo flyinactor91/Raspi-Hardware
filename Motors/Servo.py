@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Adafruit tutorials -- http://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor
+##--Continuously turns servo its full turn radius
+
 # Servo Control
 # GPIO Pin 18
 

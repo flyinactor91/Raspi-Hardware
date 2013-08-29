@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+##--Adafruit tutorials -- http://learn.adafruit.com/adafruits-raspberry-pi-lesson-10-stepper-motors
+##--Turns a stepper motor based on terminal input
+
 import RPi.GPIO as GPIO
 import time
 

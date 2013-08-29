@@ -1,3 +1,8 @@
+#!/usr/bin/python
+
+##--Adafruit tutorials -- http://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing
+##--Reads data from a digital temperature sensor
+
 import os
 import glob
 import time

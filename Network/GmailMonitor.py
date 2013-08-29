@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+##--Adafruit tutorials -- https://learn.adafruit.com/raspberry-pi-e-mail-notifier-using-leds
+##--Lights green LED when gmail has more unread emails than NEWMAIL_OFFSET. Else lights red LED
+
 import RPi.GPIO as GPIO, feedparser, time
 
 DEBUG = False

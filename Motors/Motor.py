@@ -1,3 +1,8 @@
+#!/usr/bin/python
+
+##--Adafruit tutorials -- http://learn.adafruit.com/adafruit-raspberry-pi-lesson-9-controlling-a-dc-motor
+##--Control a DC motor based on terminal input
+
 import RPi.GPIO as io
 io.setmode(io.BCM)
 
