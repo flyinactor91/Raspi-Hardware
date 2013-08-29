@@ -39,6 +39,8 @@ These programs can be used with either a Model A or Model B Raspberry Pi, but I 
 **Network**
 
 * Contains programs that connect to web services
+* Currently it contains programs to run the following hardware:
+	* Official Raspberry Pi Camera Board ([*Adafruit*](https://www.adafruit.com/products/1367))
 
 **Sensors**
 
